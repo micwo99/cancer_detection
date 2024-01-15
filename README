@@ -1,0 +1,25 @@
+USERS.txt
+
+README.txt
+
+Report.pdf : Our code's description
+
+task_number : folder
+
+predictions : folder
+
+y_pred_label0.csv : The first part's prediction file (metastase)
+
+y_pred_label1.csv : The second part's prediction file (size tumor)
+
+answers : folder
+
+code : folder
+
+requirements.txt : All the libraries that we used to do the task
+
+main.py : Contains the main code
+
+hackathon_code : folder
+
+Cancer_Breast_Code.py : Our code's implementation
